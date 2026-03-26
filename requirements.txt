@@ -9,3 +9,4 @@ langchain-groq
 faiss-cpu
 fastembed
 duckduckgo-search
+ddgs
